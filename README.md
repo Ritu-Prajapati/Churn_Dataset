@@ -1,4 +1,6 @@
 # Churn_Dataset
+<img width="607" alt="churn dataset " src="https://github.com/Ritu-Prajapati/Churn_Dataset/assets/130266066/d67e4359-2c90-474d-83bd-02b315f6a0bf">
+
 📊 Telecom Churn Dataset for Power BI Insights 📈
 
 📋 Dive into the Telecom Churn Dataset to uncover valuable insights using Power BI! 🚀 This dataset provides comprehensive information about customer behaviors in the telecommunications industry. Explore customer demographics, usage patterns, and churn indicators to identify key trends. 📊🔍
